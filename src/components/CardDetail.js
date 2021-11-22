@@ -73,11 +73,10 @@ export default CardDetail;
 
 const useStyles = makeStyles({
     userCard: {
-        position: 'fixed',
         width: '50%',
         height: "auto",
         marginLeft: '40%',
-        marginTop: '50px'
+        marginTop: '50px',
     },
     userTypo: {
         fontSize: '18px',
