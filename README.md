@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#The project aims to fetch data from jsonplaceholder API and display the users data in cards in a meaningful way. The live demo is available here [DEMO](https://ishwork-display-card-details.netlify.app/).
+The project aims to fetch data from jsonplaceholder API and display the users data in cards in a meaningful way. The live demo is available here 
+**Netlify:** [DEMO](https://ishwork-display-card-details.netlify.app/).
+**Heroku:** [DEMO](https://ishwork-myapp.herokuapp.com/)
 
 ## Available Scripts
 
