@@ -47,7 +47,7 @@ function Home() {
                                      </Typography>
                                  </CardContent>
 
-                                 <Button component={Link} to={`/user/${userData.id}`} variant="contained" color="primary">
+                                 <Button component={Link} to={`/user/${userData.id}`} variant="contained" color="red">
                                      MORE DETAILS
                                  </Button>
                              </Card>
